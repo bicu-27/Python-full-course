@@ -1,0 +1,37 @@
+# Pre -requisites
+#Array 
+"""
+Using array means all our task stored contiguously.(Right next to each other.)
+They are used to store a number of elements.
+It’s like going to a movie with your friends and finding a place to sit—
+but another friend joins you, and there’s no place for them. You have to
+move to a new spot where you all fit.
+Adding Item in array can be a big pain.
+
+
+
+"""
+
+#Linked Lists
+"""
+Linked List solve the problem of adding new item because the items  can be in a different place of the memory.
+Each item store the address of the next item.
+A bunch of random memory addresses are linked together.
+
+"""
+#Hash-maps
+"""
+Hash functions = is a function where we put string and we get number.
+Requirment for hash functions 
+It needs to be consistent.
+It should map different words to different numbers.
+Hash tables = they are great when we want to create a mapping from onething to another example when we insert the name of the user and when we get their phone just by inserting their name.
+
+"""
+#Stacks
+#Queues
+#Heaps 
+#Trees
+#Graphs
+#Big-o notation
+#Object-oriented-programming
